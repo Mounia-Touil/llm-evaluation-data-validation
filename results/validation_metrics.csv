@@ -1,0 +1,2 @@
+sample_size,successful_validations,agreements,disagreements,validation_errors,agreement_rate_percentage,manual_reviews,resolved_disagreements,unresolved_disagreements
+25,25,24,1,0,96.0,1,1,0

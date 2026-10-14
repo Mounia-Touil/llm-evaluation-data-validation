@@ -1,0 +1,4 @@
+category,total_attempts,successful_jailbreaks,refusals,asr_percentage,refusal_rate_percentage,manual_reviews
+Cyber,40,7,33,17.5,82.5,1
+Safety,40,2,38,5.0,95.0,0
+Social,40,5,35,12.5,87.5,0

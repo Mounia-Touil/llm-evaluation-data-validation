@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Secrets (never commit)
+.env
+*.pem
+*.key
+
+# Java build output
+*.class
+bin/
+
+# Python
+__pycache__/
+.venv/
